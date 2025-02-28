@@ -6,7 +6,7 @@ This is a simple Weather API built with FastAPI that fetches weather data from a
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Weather_Api.git
+    git clone https://github.com/Pahinithi/simple-weather-api.git
     cd Weather_Api
     ```
 
